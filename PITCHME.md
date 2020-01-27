@@ -17,20 +17,18 @@ Why we made it
 @snap[west span-100 text-07]
 @ul[spaced]
 - Typoing a key name is easy
-error prone
 @ulend
 @snapend
 
----
++++
 
 @snap[west span-100 text-07]
 @ul[spaced]
 - Forgetting to add a translation is easy
-error prone
 @ulend
 @snapend
 
----
++++
 
 @snap[west span-100 text-07]
 @ul[spaced]
@@ -38,7 +36,7 @@ error prone
 @ulend
 @snapend
 
----
++++
 
 @snap[west span-100 text-07]
 @ul[spaced]
