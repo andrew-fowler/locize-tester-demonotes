@@ -26,22 +26,57 @@ Translation is hard!
 
 ![Image of issue](assets/issue.png)
 
----
++++
+
+@title[Untranslated Keys]
+
+![Image of untranslation](assets/untranslated_key.png)
+
++++
 
 @title[Broken keys]
-@snap[north text-uppercase text-10 text-gold span-100]
-Broken keys
-@snapend
 
 ![Image of broken key](assets/broken_key.png)
 
 ---
 
-@title[Untranslated Keys]
+@title[How it works]
 @snap[north text-uppercase text-10 text-gold span-100]
-Untranslated Keys
+How it works
 @snapend
 
-![Image of untranslation](assets/untranslated_key.png)
++++
+
+@title[Loads translation files]
+@snap[north text-uppercase text-10 text-gold span-100]
+Loads translation files
+@snapend
+
+![Image of translation files](assets/translation_files.png)
+
++++
+
+@title[Parses the source]
+@snap[north text-uppercase text-10 text-gold span-100]
+Parses the source
+@snapend
+
+![Image of translation files](assets/parses_source.png)
+
+---
+
+@title[How to use it]
+@snap[north text-uppercase text-10 text-gold span-100]
+How to use it
+@snapend
+
++++
+
+@title[Config]
+@snap[north text-uppercase text-10 text-gold span-100]
+
+@snapend
+
+![Image of configuration](assets/configuration.png)
 
 ---
