@@ -13,14 +13,17 @@ Why we made it
 @snapend
 
 +++
+@title[Translation is hard]
 
 - Making a mistake in translation is really easy
 - Finding all mistakes in translation is really hard
 
 +++
-
-![Image of issue](assets/issue.png)
+@title[Therefore bugs]
+@snap[north text-uppercase text-10 text-gold span-100]
 Therefore, bugs!
+@snapend
+![Image of issue](assets/issue.png)
 
 ---
 
