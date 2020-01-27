@@ -26,7 +26,7 @@ Why we made it
 
 +++
 
-- Finding translation issues manually in translations is expensive and error prone
+- Finding translation issues through manual testing is expensive and error prone
 
 ---
 
