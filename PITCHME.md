@@ -8,7 +8,7 @@ Q&A
 
 ---
 @title[Why we made it]
-@snap[north text-uppercase text-10 text-gold span-100]
+@snap[text-uppercase text-10 text-gold span-100]
 Why we made it
 @snapend
 
@@ -41,7 +41,7 @@ Translation is hard!
 ---
 
 @title[How it works]
-@snap[north text-uppercase text-10 text-gold span-100]
+@snap[text-uppercase text-10 text-gold span-100]
 How it works
 @snapend
 
