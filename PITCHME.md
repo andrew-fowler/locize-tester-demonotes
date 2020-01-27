@@ -14,7 +14,10 @@ Why we made it
 
 @snap[west span-100 text-07]
 @ul[spaced]
-- Bugs/regressions in translations are hard to find cheaply and quickly
+- Typoing a key name is easy
+- Forgetting to add a translation is easy
+- Finding translation issues through test automation is expensive
+- Finding bugs/regressions manually in translations is expensive and error prone
 @ulend
 @snapend
 
@@ -23,12 +26,20 @@ Note:
 
 ---
 
-@title[Test pyramid]
+@title[Broken keys]
 @snap[north text-uppercase text-10 text-gold span-100]
-Test pyramid
+Broken keys
 @snapend
 
 ![Image of broken key](assets/broken_key.png)
+
+---
+
+@title[Untranslated Keys]
+@snap[north text-uppercase text-10 text-gold span-100]
+Untranslated Keys
+@snapend
+
 ![Image of untranslation](assets/untranslated_key.png)
 
 ---
