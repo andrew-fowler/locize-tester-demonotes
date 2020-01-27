@@ -18,14 +18,20 @@ Why we made it
 
 +++
 
+- Typoing a key name is easy
 - Forgetting to add a translation is easy
 
 +++
 
+- Typoing a key name is easy
+- Forgetting to add a translation is easy
 - Finding translation issues through test automation is expensive
 
 +++
 
+- Typoing a key name is easy
+- Forgetting to add a translation is easy
+- Finding translation issues through test automation is expensive
 - Finding translation issues through manual testing is expensive and error prone
 
 ---
