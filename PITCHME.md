@@ -14,35 +14,19 @@ Why we made it
 
 +++
 
-@snap[west span-100 text-07]
-@ul[spaced]
 - Typoing a key name is easy
-@ulend
-@snapend
 
 +++
 
-@snap[west span-100 text-07]
-@ul[spaced]
 - Forgetting to add a translation is easy
-@ulend
-@snapend
 
 +++
 
-@snap[west span-100 text-07]
-@ul[spaced]
 - Finding translation issues through test automation is expensive
-@ulend
-@snapend
 
 +++
 
-@snap[west span-100 text-07]
-@ul[spaced]
-- Finding bugs/regressions manually in translations is expensive and error prone
-@ulend
-@snapend
+- Finding translation issues manually in translations is expensive and error prone
 
 ---
 
