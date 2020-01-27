@@ -7,22 +7,23 @@ Q&A
 @snapend
 
 ---
-@title[TITLE]
+@title[Why we made it]
 @snap[north text-uppercase text-10 text-gold span-100]
 Why we made it
 @snapend
 
 +++
 @title[Translation is hard]
+@snap[north text-uppercase text-10 text-gold span-100]
+Translation is hard!
+@snapend
 
 - Making a mistake in translation is really easy
-- Finding all mistakes in translation is really hard
+- Finding all mistakes in translation is really hard and expensive
 
 +++
 @title[Therefore bugs]
-@snap[north text-uppercase text-10 text-gold span-100]
-Therefore, bugs!
-@snapend
+
 ![Image of issue](assets/issue.png)
 
 ---
